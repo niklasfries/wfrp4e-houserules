@@ -194,7 +194,9 @@ With a Successful Perception Test the defender can also ignore Defenceless for a
 
 ### Lip Reading
 
-### Luck
+### Luck [Changed]
+
+Increases Fortune Points maximum and recovery per session by 1 per Level.
 
 ### Magical Sense
 
@@ -352,7 +354,9 @@ You are an expert in striking your enemies most vulnerable areas. When rolling o
 
 ### Strong Legs
 
-### Strong-minded
+### Strong-minded [Changed]
+
+Increases Resolve Points maximum and recovery per session by 1 per Level.
 
 ### Strong Swimmer
 
