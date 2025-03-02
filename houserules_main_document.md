@@ -65,6 +65,7 @@ Combat difficulty modifiers no longer apply. Instead, various situations give **
 |                                                                           | - Attacking while having the Blinded or Prone condition.                                                                                                                                                                                  |
 |                                                                           | - Defending against Melee attacks when affected by the Blinded, Broken, Entangled, Prone, Surprised, or Stunned conditions.                                                                                                               |
 |                                                                           | - Using a Melee skill to defend against a Melee attack from a target at least two steps larger.                                                                                                                                           |
+|                                                                           | - Attacking with a weapon you are not allowed to use according to vanilla. Note that you can never gain Advantage while getting Disadvantage for this reason, so the roll will always be at Disadvantage unless you spend a Fortune Point. |
 
 Fortune points are combined with Advantage and Disadvantage according to the following table:
 
