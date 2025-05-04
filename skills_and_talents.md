@@ -258,9 +258,23 @@ You may never be a willing target of a spell. Increase your Spell Defence Bonus 
 
 ### Resolute
 
-### Reversal
+### Reversal [Changed]
 
-### Riposte [TODO]
+Max: Weapon Skill Bonus
+
+Increase your Melee Skill Bonus by 1 per Level in this Talent when defending against Melee Attacks.
+If you win an Opposed Melee Test, instead of gaining +1 Advantage, you may take all your opponent’s Current Advantage.
+If you do this, you do not cause any Damage, even if it is your Turn in the Round.
+
+TODO: Should Reversal and Shieldsman, and Reversal and Riposte be usable together?
+
+### Riposte [Changed]
+
+Max: Agility Bonus
+
+Increase your Melee Skill Bonus by 1 per level in this Talent when defending with a Weapon with the Fast Quality.
+If your weapon has the Fast Quality, you may cause Damage when you are attacked, just as if it was your Action.
+You can Riposte a number of attacks per Round equal to your Riposte Level.
 
 ### River Guide
 
@@ -296,7 +310,10 @@ You may never be a willing target of a spell. Increase your Spell Defence Bonus 
 
 Max: Strength Bonus
 
-Increase your Melee Skill Bonus by 1 per level in this Talent if you defend yourself with a shield. When using a Shield to defend, you gain Momentum equal to the number of levels you have in Shieldsman if you lose the Opposed Test.
+Increase your Melee Skill Bonus by 1 per level in this Talent if you defend yourself with a shield.
+When using a Shield to defend, you gain Momentum equal to the number of levels you have in Shieldsman if you lose the Opposed Test.
+
+TODO: Use Up in Arms version instead?
 
 ### Sixth Sense
 
