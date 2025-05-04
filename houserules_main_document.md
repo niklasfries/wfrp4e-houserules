@@ -368,6 +368,10 @@ Armor with this property has its AP reduced by 1 (Mail Coif, Open Helm).
 
 Same as book (p. 338). A creature can only deal damage this way Rating times per Round.
 
+#### Deathblow
+
+- Deathblow is triggered if the attack deals at least as much Damage after reduction as the target has Wounds, even if the target was already injured.
+
 #### Size Combat Modifiers
 
 - For Attacks, Damage is increased by SB for every Size category larger the attacker is than its target.
