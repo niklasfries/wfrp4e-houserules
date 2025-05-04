@@ -11,9 +11,11 @@
     - Even Fumbles are Misfires - the gun blows up in the users hand and deals 8-SL Damage in a 3 meter radius.
 - If Successful the gun fires at targets in a cone of 30 degrees and 20 meters:
     - The attacker may elect a primary target in the cone and roll an Attack with their Attack Skill Bonus against the target's Dodge Defense Bonus.
+        - The attacker may spend Momentum to increase the ASB against the primary target.
     - Other targets perform Challenging (+0) Dodge Tests and are hit on Failure. Hit location is rolled separately.
     - The blunderbus deals 8+SL Damage and has the following Qualities:
         - Damaging.
         - Blackpowder: If you are targeted by a Blackpowder weapon, you must pass an Average (+20) Cool Test or take a Broken Condition, even if the shot misses.
     - If in Cover the Attack gains Disadvantage agianst the primary target, and secondary targets in Cover get +20 to their Dodge Tests.
+    - The attacker gains 1 Momentum if at least one foe is hit.
 
