@@ -368,13 +368,19 @@ Armor with this property has its AP reduced by 1 (Mail Coif, Open Helm).
 
 Same as book (p. 338). A creature can only deal damage this way Rating times per Round.
 
-#### Size [TODO]
+#### Deathblow
 
-Vill vi göra steget mellan Large och Enormous lite mindre, antingen göra Large farligare eller Enormous lite mindre farligt?
+- Deathblow is triggered if the attack deals at least as much Damage after reduction as the target has Wounds, even if the target was already injured.
 
-Note: RAW har Enormous både Damaging och Impact och dubbel damage mot Average, det har vi aldrig spelat med vad jag minns.
+#### Size Combat Modifiers
 
-eeemil verkar planera att spela en karaktär med Small, vilket gör detta extra intressant
+- For Attacks, Damage is increased by SB for every Size category larger the attacker is than its target.
+- All Melee Attacks that hit a smaller target activate the Deathblow rule, even if the target survives.
+- Melee Attacks against targets two or more Size categories smaller gain Advantage if the defender uses its Melee Defense Bonus for defence.
+- An attacker may choose to perform a Sweeping Attack against targets at least two Size categories smaller.
+Sweeping Attacks hit eligible targets within Reach in a 90 degrees arc, do SB less Damage than regular Attacks, do not gain Advantage from Size, and may not trigger Deathblow.
+If hit by a Sweeping Attack, you must take a Challenging (+0) Athletics Test. If Failed you are knocked back -SL meters, and if Failed by at least 2 SLs you also gain the Prone Condition.
+- Once per turn an attacker may spend 1 Momentum to perform a Stomp Attack against a smaller target, this attack does SB Damage per Size category difference between the attacker and its target.
 
 ## Endeavors
 
