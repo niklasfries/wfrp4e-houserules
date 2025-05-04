@@ -14,7 +14,19 @@ An Active Talent is used as your Action. Active Talents may give a bonus to a Sk
 
 ### Heal [TODO]
 
-### Melee (Parry)
+### Melee
+
+#### Melee (Cavalry) [Changed]
+
+- Lances are the only Melee (Cavalry) Weapons, other Cavalry group Weapons are used with their appropriate Melee group.
+- When mounted, all Weapons may be used with either their regular Melee group, or with Melee (Cavalry).
+- To gain any bonus from being mounted, one must use Melee (Cavalry):
+    - Advantage on Attacks on a Turn when you Charge.
+    - Use the Size and Strength of the mount for calculating Damage on a Turn when you Charge.
+- Two-handed weapons may only be used when mounted if you possess the Trick Rider Talent (TODO: How to deal with Knights of the White Wolf?).
+- Unless you have the Trick Rider Talent, attacks with Weapons with Short Reach or lower have Disadvantage and do not benefit from Charge bonuses even if you use Melee (Cavalry).
+
+#### Melee (Parry) [Changed]
 
 Melee (Fencing) and Melee (Parry) has been combined into Melee (Fencing).
 
