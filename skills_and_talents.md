@@ -52,11 +52,9 @@ When frenzied, your Melee attacks deal 1 extra damage for each level you have in
 
 ### Beneath Notice
 
-### Berserk Charge [Changed TODO]
+### Berserk Charge [Changed]
 
-Gain Advantage on Melee attacks on a Turn when you Charge, gain Momentum equal to your level in Berserk Charge when you Charge.
-
-TODO buff?
+Gain Advantage on one Melee attack per level in this Talent on a Turn when you Charge, gain Momentum equal to your level in Berserk Charge when you Charge.
 
 ### Blather
 
