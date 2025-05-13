@@ -314,11 +314,14 @@ Long Range, i.e., the Range at which you can shoot with Disadvantage, is extende
 
 ### Sprinter
 
-### Step Aside [Changed TODO change back?]
+### Step Aside [Changed]
 
 Max: Agility Bonus
 
-If you use Dodge to defend against an incoming melee attack, you may attempt to Step Aside. If you do this, increase your Dodge Defence Bonus by 1 per level in this Talent. If you successfully defend against the attack, you must move 2 meters as you dive away, and no longer count as Engaged. None of your opponents will gain a Free Attack when you do this.
+Increase your Dodge Skill Bonus by 1 for each Level in this Talent.
+If your level in Step Aside is no lower than the number of foes you are Engaged with in Melee,
+you may move 2 meters as you dive away, and no longer count as Engaged.
+None of your opponents will gain a Free Attack when you do this.
 
 ### Stone Soup
 
