@@ -273,8 +273,9 @@ For a single Attack you may only benefit from one of Reversal, Riposte, Shieldsm
 Max: Agility Bonus
 
 Increase your Melee Skill Bonus by 1 per level in this Talent when defending with a Weapon with the Fast Quality.
-If your weapon has the Fast Quality, you may cause Damage when you are attacked, just as if it was your Action.
-You can Riposte a number of attacks per Round equal to your Riposte Level.
+If you use a Weapon with the Fast Quality to successfully defend yourself against a Melee Attack,
+you may Riposte to deal Damage and inflict Critical Hits to the attacker as if you were the attacker.
+You may Riposte a number of attacks per Round equal to your Riposte Level.
 
 For a single Attack you may only benefit from one of Reversal, Riposte, Shieldsman and Step Aside.
 
