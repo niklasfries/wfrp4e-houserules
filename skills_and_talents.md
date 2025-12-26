@@ -258,9 +258,26 @@ You may never be a willing target of a spell. Increase your Spell Defence Bonus 
 
 ### Resolute
 
-### Reversal
+### Reversal [Changed]
 
-### Riposte [TODO]
+Max: Weapon Skill Bonus
+
+Increase your Melee Skill Bonus by 1 per Level in this Talent when defending against Melee Attacks.
+If you win an Opposed Melee Test, instead of gaining +1 Advantage, you may take all your opponent’s Current Advantage.
+If you do this, you do not cause any Damage, even if it is your Turn in the Round.
+
+For a single Attack you may only benefit from one of Reversal, Riposte, Shieldsman and Step Aside.
+
+### Riposte [Changed]
+
+Max: Agility Bonus
+
+Increase your Melee Skill Bonus by 1 per level in this Talent when defending with a Weapon with the Fast Quality.
+If you use a Weapon with the Fast Quality to successfully defend yourself against a Melee Attack,
+you may Riposte to deal Damage and inflict Critical Hits to the attacker as if you were the attacker.
+You may Riposte a number of attacks per Round equal to your Riposte Level.
+
+For a single Attack you may only benefit from one of Reversal, Riposte, Shieldsman and Step Aside.
 
 ### River Guide
 
@@ -296,7 +313,12 @@ You may never be a willing target of a spell. Increase your Spell Defence Bonus 
 
 Max: Strength Bonus
 
-Increase your Melee Skill Bonus by 1 per level in this Talent if you defend yourself with a shield. When using a Shield to defend, you gain Momentum equal to the number of levels you have in Shieldsman if you lose the Opposed Test.
+Increase your Melee Skill Bonus by 1 per level in this Talent if you defend yourself with a shield.
+When using a Shield to defend, you gain Momentum equal to the number of levels you have in Shieldsman if you lose the Opposed Test.
+
+For a single Attack you may only benefit from one of Reversal, Riposte, Shieldsman and Step Aside.
+
+TODO: Use Up in Arms version instead?
 
 ### Sixth Sense
 
@@ -319,6 +341,8 @@ Long Range, i.e., the Range at which you can shoot with Disadvantage, is extende
 Max: Agility Bonus
 
 If you use Dodge to defend against an incoming melee attack, you may attempt to Step Aside. If you do this, increase your Dodge Defence Bonus by 1 per level in this Talent. If you successfully defend against the attack, you must move 2 meters as you dive away, and no longer count as Engaged. None of your opponents will gain a Free Attack when you do this.
+
+For a single Attack you may only benefit from one of Reversal, Riposte, Shieldsman and Step Aside.
 
 ### Stone Soup
 
